@@ -1,2 +1,2 @@
 # CASnotes
-a notes app built completely in python
+a notes app written completely in python
